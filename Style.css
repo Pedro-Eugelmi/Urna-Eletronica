@@ -201,7 +201,7 @@ header fieldset
         -o-background-clip: text;
         background-clip: text;
         -webkit-text-fill-color: transparent;
-        -webkit-text-stroke: black 1px ;
+        -webkit-text-stroke: black 1px  ;
       }
 .candidatesArea
 {
